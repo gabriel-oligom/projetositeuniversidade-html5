@@ -1,2 +1,2 @@
-# projetositeuniversidade-html5
+# projetositeuniv-html5
  Projeto básico em HTML5
